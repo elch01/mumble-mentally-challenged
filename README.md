@@ -26,14 +26,6 @@ the last version to provide support for XP.
 The documentation of the project can be found on the [wiki](https://wiki.mumble.info/wiki/Main_Page). The
 [FAQ](https://wiki.mumble.info/wiki/FAQ/English) can also be found there.
 
-
-## Contributing
-
-We always welcome contributions to the project. If you have some code that you would like to contribute, please go ahead and create a PR. While doing so,
-please try to make sure that you follow our [commit guidelines](COMMIT_GUIDELINES.md).
-
-If you are new to the Mumble project, you may want to check out the general [introduction to the Mumble source code](docs/dev/TheMumbleSourceCode.md).
-
 ### Translating
 
 Mumble supports various languages. We are always looking for qualified people to contribute translations.
